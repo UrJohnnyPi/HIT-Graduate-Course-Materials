@@ -13,7 +13,7 @@
 
 **复习资料**：[飞书文件夹](https://my.feishu.cn/drive/folder/DhTgfSekKlpIRzdUFBkc8MxdnUh)
 
-**学习建议**
+**学习建议**：
 
 1. 听不懂？好，派总也听不懂
 2. 直接刷题，刷完老师画的题后，基本就掌握这门课的全貌了，贴心的派总已经将 26 年 CS 老师画的题和笔记放到这里了，比奇堡居民们快快领取
@@ -27,7 +27,7 @@
 
 **复习资料**：[飞书文件夹](https://my.feishu.cn/drive/folder/WWtFfhM15lGdnLdkShocw0RGnJe)
 
-**复习建议**
+**复习建议**：
 
 1. 逃课？好，派总也逃课。贴心的派总为比奇堡居民们整理了以应试为目标的学习方案：刷题！刷题！还是tm的刷题！
 2. OnGoing 阶段 ~
@@ -38,7 +38,7 @@
 
 **复习资料**：[飞书文件夹](https://my.feishu.cn/drive/folder/BW1gfIb4flVyzed90sVcMaeFnXe)
 
-**复习建议**
+**复习建议**：
 
 1. 逃课？好，派总也逃课。贴心的派总为比奇堡居民们整理了以应试为目标的学习方案：刷题！刷题！还是tm的刷题！
 2. OnGoing 阶段 ~
